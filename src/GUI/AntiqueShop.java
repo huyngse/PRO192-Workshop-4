@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class AntiqueShop {
     public static void main(String[] args) {
         String options[] = {
-            "Create a value",
+            "Create a vase",
             "Create a statue",
             "Create a painting",
             "Display the item",
